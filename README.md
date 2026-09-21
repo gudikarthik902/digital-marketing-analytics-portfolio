@@ -4,7 +4,7 @@ Digital marketing and CRM analytics professional focused on campaign performance
 
 This portfolio demonstrates how I turn marketing data into clear insights, dashboards, and optimization recommendations using SQL, Excel, Power BI, GA4, CRM platforms, and visualization tools.
 
-## Featured case study
+## Featured case studies
 
 ### [Crown Industries — U.S. Packaging Machinery Marketing Analytics](crown-industries-case-study/)
 
@@ -29,6 +29,26 @@ A simulated B2B market-entry and lead-generation analysis for a packaging-machin
 
 > **Data note:** This is a portfolio simulation built with synthetic data. It contains no actual customer, campaign, financial, or confidential Crown Industries information.
 
+### [Crown Industries — B2B Customer Segmentation and Lifecycle Analytics](crown-industries-customer-segmentation/)
+
+[![Crown Industries customer segmentation dashboard](crown-industries-customer-segmentation/crown-industries-segmentation-dashboard.png)](crown-industries-customer-segmentation/)
+
+An account-level CRM analytics project that uses recency, frequency, monetary value, and lifecycle stage to identify high-value relationships, at-risk accounts, onboarding needs, and repeat-purchase opportunities.
+
+**Project highlights**
+
+- Analyzed 360 synthetic B2B accounts and 1,282 orders
+- Created seven actionable customer segments and five lifecycle stages
+- Assigned account-level CRM actions for retention, recovery, onboarding, nurture, and win-back campaigns
+- Built a formula-driven Excel dashboard with segment revenue, lifecycle health, and executive recommendations
+
+**Explore the work**
+
+- [Read the complete segmentation case study](crown-industries-customer-segmentation/)
+- [Open the customer segmentation workbook](crown-industries-customer-segmentation/crown-industries-b2b-customer-segmentation.xlsx)
+
+> **Data note:** This project also uses synthetic portfolio data and contains no actual customer, order, financial, or confidential Crown Industries information.
+
 ## Core capabilities
 
 | Area | Capabilities |
@@ -49,7 +69,7 @@ A simulated B2B market-entry and lead-generation analysis for a packaging-machin
 
 - [x] Campaign performance and funnel analytics
 - [x] Executive KPI dashboard
-- [ ] Customer segmentation and lifecycle analysis
+- [x] Customer segmentation and lifecycle analysis
 - [ ] Website and GA4 measurement case study
 - [ ] A/B testing and conversion-optimization case study
 

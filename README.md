@@ -49,6 +49,28 @@ An account-level CRM analytics project that uses recency, frequency, monetary va
 
 > **Data note:** This project also uses synthetic portfolio data and contains no actual customer, order, financial, or confidential Crown Industries information.
 
+### [Crown Industries — B2B Website and GA4 Lead-Generation Measurement](crown-industries-ga4-lead-generation-measurement/)
+
+[![Crown Industries GA4 measurement dashboard](crown-industries-ga4-lead-generation-measurement/crown-industries-ga4-dashboard-preview.png)](crown-industries-ga4-lead-generation-measurement/)
+
+A website-measurement case study connecting acquisition channels and landing-page engagement to specification downloads, form starts, qualified leads, and quote requests through a GA4-style event framework.
+
+**Project highlights**
+
+- Analyzed 520 synthetic weekly channel and landing-page records
+- Evaluated acquisition, engagement, lead conversion, and funnel drop-off
+- Compared channel and landing-page performance
+- Designed a nine-event GA4 tracking plan with key-event definitions
+- Documented event ownership, implementation requirements, and QA methods
+- Built a five-sheet Excel workbook with dashboard, funnel, event-plan, and methodology views
+
+**Explore the work**
+
+- [Read the complete GA4 measurement case study](crown-industries-ga4-lead-generation-measurement/)
+- [Open the GA4 measurement workbook](crown-industries-ga4-lead-generation-measurement/crown-industries-ga4-lead-generation-measurement.xlsx)
+
+> **Data note:** This project uses synthetic portfolio data and contains no actual website, lead, customer, employee, or confidential Crown Industries information.
+
 ## Core capabilities
 
 | Area | Capabilities |
@@ -70,7 +92,7 @@ An account-level CRM analytics project that uses recency, frequency, monetary va
 - [x] Campaign performance and funnel analytics
 - [x] Executive KPI dashboard
 - [x] Customer segmentation and lifecycle analysis
-- [ ] Website and GA4 measurement case study
+- [x] Website and GA4 measurement case study
 - [ ] A/B testing and conversion-optimization case study
 
 ---
